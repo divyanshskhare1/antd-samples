@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
-//import logo from './logo.svg';
-
-import Tables from './Pages/Table';
-import Layot from './Components/layout';
+import Layot from './components/layout';
      
 
 import './App.css';

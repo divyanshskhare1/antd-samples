@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Layout, Menu, Breadcrumb, Icon, DatePicker } from 'antd';
 import SideGrid from './sidegrid';
 import 'antd/dist/antd.css';
-import Tables from '../Pages/Table';
+import Tables from '../pages/table';
 
 const { Header, Content, Footer, Sider } = Layout;
 
