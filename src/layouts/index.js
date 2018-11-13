@@ -3,8 +3,8 @@ import 'antd/dist/antd.css';
 import React, { Component } from 'react';
 import { Layout } from 'antd';
 
-import NavigationBar from './sidebar/navigation-bar';
-import Body from './body/body';
+import NavigationBar from './sidebar';
+import Body from './body';
 
 const { Sider } = Layout;
 
